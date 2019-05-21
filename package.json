@@ -1,0 +1,15 @@
+{
+  "name": "node01",
+  "version": "1.0.0",
+  "description": "Primera aplicacion con nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Alien Tapia",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
